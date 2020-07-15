@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo_logo">30dp</dimen>
+    <dimen name="text_login">20sp</dimen>
+    <dimen name="textfiel_login_height">60dp</dimen>
+    <dimen name="text_login_olvidopassword">18sp</dimen>
+    <dimen name="buttom_login_heigh">50dp</dimen>
+    <dimen name="buton_login_texto">18sp</dimen>
+    <dimen name="icon_tamano">40dp</dimen>
+
+</resources>

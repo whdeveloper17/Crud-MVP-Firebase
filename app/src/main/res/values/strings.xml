@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="titulo_app">Quilla</string>
+    <string name="login">Si tiene cuenta inicie sesion</string>
+
+    <string name="textfield_loginactivity_email">Correo</string>
+    <string name="textfield_loginactivity_password">Contraseña</string>
+    <string name="text_loginactivity_olvidopassword">Olvido su contraseña?</string>
+    <string name="button_loginactivity_login">Iniciar sesion</string>
+
+    <string name="text_loginactivity_notienecuenta">No tienes cuenta?</string>
+    <string name="text_loginactivity_notienecuenta2">Regístrarse </string>
+</resources>
